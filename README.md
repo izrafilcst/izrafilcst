@@ -1,16 +1,45 @@
-## Hi there 👋
+# Rafael Costa
 
-<!--
-**izrafilcst/izrafilcst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro da Computação** | Treinando Cibersegurança Ofensiva | Aplicação de Machine Learning em Segurança | Arquitetura e Compliance.
 
-Here are some ideas to get you started:
+Estudante de Engenharia da Computação (UniCEUB, 7º semestre) com atuação em governança de dados na Caixa Econômica Federal. Focando o aprendizado para segurança ofensiva, Red teaming, tomo como hobbie desenvolvimento de hardware, software e infra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Agora
+- 🔴 Estou Cursando o Path **AI Red Teamer** — HackTheBox Academy
+- 🎯 Preparação para as certificações: **CompTIA Security+** → **CPTS** → **OSCP**
+- ☁️ Aprendendo os principais serviços da AWS para Formação da Certificação AWS Certified Cloud Practitioner
+
+### Projetos em Destaque
+
+| Projeto               | Stack               | O que faz                                             |
+|-----------------------|---------------------|-------------------------------------------------------|
+| [CTF Write-ups](https://github.com/rafaelacosta/ctfs)        | Markdown, Bash      | Write-ups de máquinas HTB com metodologia documentada |
+
+
+### Números
+
+```
+HackTheBox    ██░░░░░░░░░░░░░░  10 máquinas resolvidas
+HTB Academy   ████░░░░░░░░░░░░  AI Red Teamer Path em andamento
+CTF Write-ups █░░░░░░░░░░░░░░░  4 documentados
+```
+
+### Stack
+
+```
+Ofensivo    → Nmap, Burp Suite, Metasploit, Gobuster, Wireshark
+Defensivo   → Wazuh, Splunk (conceitos), análise de logs
+IA/ML       → scikit-learn, Pandas, NumPy, APIs de LLM
+Linguagens  → Python, C/C++, Bash, JavaScript, SQL
+Infra       → Linux (Kali, Ubuntu), Docker, VirtualBox, AWS (fundamentos)
+```
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-costa-b1569b235/a)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-izrafil-green?style=flat&logo=hackthebox)](https://app.hackthebox.com/public/users/3298107a)
+[![Email](https://img.shields.io/badge/Email-izrafilcst%40gmail.com-red?style=flat&logo=gmail)](mailto:izrafilcst@gmail.com)
+
+---
