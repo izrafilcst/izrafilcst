@@ -15,7 +15,7 @@ Estudante de Engenharia da Computação (UniCEUB, 7º semestre) com atuação em
 
 | Projeto               | Stack               | O que faz                                             |
 |-----------------------|---------------------|-------------------------------------------------------|
-| [CTF Write-ups](https://github.com/rafaelacosta/ctfs)        | Markdown, Bash      | Write-ups de máquinas HTB com metodologia documentada |
+| [CTF Write-ups](https://github.com/izrafilcst/ctfs)        | Markdown, Bash      | Write-ups de máquinas HTB com metodologia documentada |
 
 
 ### Números
