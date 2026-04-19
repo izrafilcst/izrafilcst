@@ -38,8 +38,8 @@ Infra       → Linux (Kali, Ubuntu), Docker, VirtualBox, AWS (fundamentos)
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-costa-b1569b235/a)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-izrafil-green?style=flat&logo=hackthebox)](https://app.hackthebox.com/public/users/3298107a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Costa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-costa-b1569b235)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-izrafil-green?style=flat&logo=hackthebox)](https://app.hackthebox.com/public/users/3298107)
 [![Email](https://img.shields.io/badge/Email-izrafilcst%40gmail.com-red?style=flat&logo=gmail)](mailto:izrafilcst@gmail.com)
 
 ---
