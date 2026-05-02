@@ -21,9 +21,9 @@ Estudante de Engenharia da Computação (UniCEUB, 7º semestre) com atuação em
 ### Números
 
 ```
-HackTheBox    ██░░░░░░░░░░░░░░  10 máquinas resolvidas
-HTB Academy   ████░░░░░░░░░░░░  AI Red Teamer Path em andamento
-CTF Write-ups █░░░░░░░░░░░░░░░  4 documentados
+HackTheBox      10 máquinas resolvidas
+HTB Academy     AI Red Teamer Path em andamento
+CTF Write-ups   4 documentados
 ```
 
 ### Stack
