@@ -7,11 +7,11 @@
 [![Email](https://img.shields.io/badge/Email-izrafilcst%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:izrafilcst@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/izrafilcst?style=flat&logo=github&label=Follow&color=181717)](https://github.com/izrafilcst)
 
-🇬🇧 **[English](#-english)** · 🇧🇷 **[Português](#-português)**
+🇺🇸 **[English](#-english)** · 🇧🇷 **[Português](#-português)**
 
 ---
 
-## 🇬🇧 English
+## 🇺🇸 English
 
 ### About
 Computer Engineering student (**UniCEUB**, 7th semester), currently working in **Data Governance at Caixa Econômica Federal** — one of Brazil's largest public banks. My day-to-day sits on the boundary between **GRC and Security**: data governance, regulatory compliance (LGPD-aligned), and the policies and controls that protect sensitive information in a heavily regulated financial environment.
