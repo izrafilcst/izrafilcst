@@ -57,7 +57,7 @@ GRC         → LGPD · data governance · access controls
 ```
 
 ### Languages
-🇧🇷 Portuguese (native) · 🇬🇧 English (fluent)
+🇧🇷 Portuguese (native) · 🇺🇸 English (advanced)
 
 ### What I'm looking for
 Open to **junior Red Team, Pentest and AppSec** opportunities — remote or based in Brasília, Brazil. Especially interested in environments where regulatory context (banking, fintech, healthcare) meets offensive testing.
@@ -110,7 +110,7 @@ GRC         → LGPD · governança de dados · controles de acesso
 ```
 
 ### Idiomas
-🇧🇷 Português (nativo) · 🇬🇧 Inglês (fluente)
+🇧🇷 Português (nativo) · 🇺🇸 Inglês (avançado)
 
 ### O que procuro
 Aberto a oportunidades **júnior em Red Team, Pentest e AppSec** — remoto ou em Brasília. Especial interesse em ambientes onde contexto regulatório (banking, fintech, saúde) se encontra com teste ofensivo.
